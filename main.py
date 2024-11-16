@@ -25,7 +25,7 @@ class TradingAgent:
 
         return tobuy
 
-# Example usage:
+
 average_price = 600  # Average price of the smartphone
 agent = TradingAgent(average_price)
 
